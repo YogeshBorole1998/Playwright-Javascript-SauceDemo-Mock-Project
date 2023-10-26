@@ -35,6 +35,19 @@ URL: https://www.saucedemo.com/
 > Testname: TC_05_checkoutWithPGUandSU.test.js
 > <br>
 
+# Installation : 
+Install the dependencies and devDependencies to run the test.
+
+Clone (OR) Download this repo as zip folder on to your local machine
+Navigate to project's directory on terminal and run the following commands:
+Clone the repository
+
+git clone https://github.com/YogeshBorole1998/Playwright-Javascript-SauceDemo-Mock-Project.git
+Install dependencies
+
+npm install
+npx playwright install
+
 # Project Results :
 1. HTML Report : npx playwright show-report OR npx playwright test --reporter=html <br><br>
 <img width="519" alt="image" src="https://github.com/YogeshBorole1998/Playwright-Javascript-SauceDemo-Mock-Project/assets/104203768/18c10c09-3325-4172-ab2a-6ffc2a6b7b8c"> <br>
