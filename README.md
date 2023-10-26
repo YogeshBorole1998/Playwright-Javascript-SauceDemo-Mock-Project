@@ -36,4 +36,16 @@ URL: https://www.saucedemo.com/
 > <br>
 
 # Project Results :
-1.  
+1. HTML Report : npx playwright show-report OR npx playwright test --reporter=html <br><br>
+<img width="519" alt="image" src="https://github.com/YogeshBorole1998/Playwright-Javascript-SauceDemo-Mock-Project/assets/104203768/18c10c09-3325-4172-ab2a-6ffc2a6b7b8c"> <br>
+
+2. Dot Report : <br><br> <img width="568" alt="image" src="https://github.com/YogeshBorole1998/Playwright-Javascript-SauceDemo-Mock-Project/assets/104203768/ad7bc625-7a97-4105-8779-5166ba5cbf25"> <br>
+3. List Report : <br><br><img width="741" alt="image" src="https://github.com/YogeshBorole1998/Playwright-Javascript-SauceDemo-Mock-Project/assets/104203768/0a631c4e-9503-4e99-9e71-b6ddf50eff46"><br>
+4. Line Report : <br><br> <img width="580" alt="image" src="https://github.com/YogeshBorole1998/Playwright-Javascript-SauceDemo-Mock-Project/assets/104203768/0623d961-fa7f-47bc-a253-dafd86b241a9"><br>
+5. Allure Report : npx playwright test --project chromium -->  allure generate allure-results -o allure-report --clean --> allure open allure-report <br><br> <img width="902" alt="image" src="https://github.com/YogeshBorole1998/Playwright-Javascript-SauceDemo-Mock-Project/assets/104203768/1c7ccb71-de81-4e31-a986-e361d1865b62">
+<br>
+
+
+
+
+
